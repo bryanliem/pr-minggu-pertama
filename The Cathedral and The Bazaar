@@ -1,0 +1,31 @@
+two ways of managing a hacking project
+- The cathedral
+1. top down controlled approach
+2. everything handled in house with a few developers
+3. releasing a finished product only when kinks are worked out 
+    only released occasionally
+
+-The bazaar
+1. open and wide ranging
+2. multiple releases handled in quick succession 
+    used for feedback from users and other hackers
+3. tasks delegated to others
+    everyobone contributes to the final porduct
+
+- great deal of work still handled by you
+1. organizing the project
+2. making decisions about the software
+3. incorporating pieces worked on by others 
+
+good ideas from your users can be a great contribution
+1. make sure to implement good ideas in future releases
+2. release early, release often 
+    mark them as development releases
+
+project development 
+- necessity is the mother of invention
+1. ideas usually come from a need the hacker has
+2. if you have the right attitude, interesting problems will find you
+
+-good coders know how to reuse
+1. look around for a previous effort and start from there
